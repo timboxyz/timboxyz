@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Being kind of lazy if you want to know about me catch me on <a rel="me" href="https://fosstodon.org/@TheExecEditor">Fosstodon</a>
+
 <!--
 **timboxyz/timboxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
